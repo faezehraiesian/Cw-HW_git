@@ -1,14 +1,14 @@
 body{
     padding: 1% 5% 1% 5%;
-    background-color:cadetblue ;
+    background-color:rgb(131, 144, 145) ;
 }
 .all{
     text-align: center;
-    background-image: linear-gradient(to right, rgb(0, 255, 213), rgb(9, 64, 95) );
+    background-image: linear-gradient(to right, rgb(74, 99, 94), rgb(65, 139, 182) );
     padding: auto;
 }
 img{
-    border-radius: 50%;
+    border-radius: 60%;
     height: 200px;
 }
 li{
