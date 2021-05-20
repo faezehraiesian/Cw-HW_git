@@ -1,0 +1,25 @@
+body{
+    padding: 1% 5% 1% 5%;
+    background-color:cadetblue ;
+}
+.all{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(0, 255, 213), rgb(9, 64, 95) );
+    padding: auto;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+}
+li{
+    text-align: right;
+}
+.lev{
+    text-align: left;
+}
+fieldset{
+    margin: 1cm;
+}
+a{
+    text-decoration: none;
+}
